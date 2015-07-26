@@ -1,6 +1,6 @@
 Simulated Branch Predictor for a Sodor Five Stage CPU Core
 =============
-My code is contained within [branch_predictor.cpp](branch_predictor.cpp).
+My code is contained within [branch_predictor.cpp](branch_predictor.cpp). Due to time contraints, formatting and commenting may not be ideal.
 
 This repository contains some of the code I wrote for a class I took called [Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152/sp14/).
 The complete instructions are contained within the [PDF](Prompt.pdf).
