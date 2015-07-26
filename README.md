@@ -1,5 +1,4 @@
-Simulated Branch Predictor for a 
-Sodor 5-Stage Core
+Simulated Branch Predictor for a Sodor Five Stage CPU Core
 =============
 This repository contains some of the code I wrote for a class I took called [Computer Architecture and Engineering](http://www-inst.eecs.berkeley.edu/~cs152/sp14/).
 The complete instructions are contained within the PDF.
